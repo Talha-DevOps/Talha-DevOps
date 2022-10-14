@@ -1,4 +1,4 @@
-## Hi! I'm Muhammad Usman, a Full Stack Developer.
+## Hi! I'm Talha, a Full Stack Developer.
 <div align="center">
   <a href="[https://github.com/Talha-DevOps]">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talha-DevOps&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
