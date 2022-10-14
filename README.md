@@ -1,7 +1,8 @@
-## Hi! I'm Talha, a Full Stack Developer.
+## Hi! I'm Muhammad Usman, a Full Stack Developer.
 <div align="center">
   <a href="[https://github.com/Talha-DevOps]">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talha-DevOps&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-DevOps&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +17,13 @@
   ##
  
 <div> 
+  <a href="https://instagram.com/muhammad_ucmaan" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ <a href="https://discord.gg/muhammad_ucman" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:osmanamin689@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-8145a214b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
